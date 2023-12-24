@@ -1,1 +1,1 @@
-https://share.streamlit.io/
+url dashboard di generate pada file colab.ipynb cell terakhir
